@@ -2,7 +2,7 @@
 module.exports = {
     //Your bot data
     bot: {
-        token: 'ODcxMzAzNjkyMTk0ODI4MzA5.YQZWzA.-qj28qJH7_Txg4dUeYUesKk3dUU', //Your bot token - https://tinyurl.com/discordbot-token
+        token: 'ODcxMzAzNjkyMTk0ODI4MzA5.YQZWzA.1XtWt4WIujyIicdsdVJnLHumx7c', //Your bot token - https://tinyurl.com/discordbot-token
         prefix: '=', //Your custom prefix of the bot, like "!" or "."
         status: '=status', //Custom activity/status text
         activity: 'LISTENING' //You can choose: PLAYING, LISTENING, WATCHING, COMPETING
