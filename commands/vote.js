@@ -2,8 +2,8 @@ const { commands } = require("../config");
 const Discord = require('discord.js');
 
 module.exports.config = {
-    name: "vote", //Name of command - RENAME THE FILE TOO!!!
-    description: "Vote for server", //Description of command - you can change it :)
+    name: "more info", //Name of command - RENAME THE FILE TOO!!!
+    description: "https://mcsrvstat.us/server/play.indrasmp.xyz", //Description of command - you can change it :)
     aliases: commands.vote, //Command's aliases - set them in config.js
     enable: true //Enable this command? - true or false (boolean)
 };
