@@ -6,7 +6,7 @@ ms = require('ms')
 //Discord client - I like "bot" more, then "client"
 const bot = new Discord.Client({disableEveryone: true});
 
-Const keepAlive = require(“./server”)
+const keepAlive = require(“./server”)
 const config = require('./config'),
 activites = ['PLAYING', 'WATCHING', 'COMPETING', 'LISTENING'], //Supported activites, discord.js supports more (but I don't care)
 error = c.keyword('red').bold,
